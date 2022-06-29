@@ -1,0 +1,5 @@
+venv
+.env
+settings_specific.py
+db.sqlite3
+
